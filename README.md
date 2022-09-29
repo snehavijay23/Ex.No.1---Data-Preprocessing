@@ -62,7 +62,12 @@ print(df1)
 /Write your code here/
 
 ##OUTPUT:
-![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/commit/2c7d9581f813614e5fe6ce542cf10e73f6398a33?raw=true)
+![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op1.PNG?raw=true)
+![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op2.PNG?raw=true)
+![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op3.PNG?raw=true)
+![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op4.PNG?raw=true)
+
+
 
 ##RESULT
 Thus the above program for standardizing the given data was implemented successfully.
