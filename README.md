@@ -1,13 +1,13 @@
 # Ex.No.1---Data-Preprocessing
-##AIM:
+### AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+### REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
-## RELATED THEORETICAL CONCEPT:
+###  RELATED THEORETICAL CONCEPT:
 
 Kaggle :
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
@@ -23,15 +23,21 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
+### ALGORITHM:
+
 Importing the libraries
+
 Importing the dataset
+
 Taking care of missing data
+
 Encoding categorical data
+
 Normalizing the data
+
 Splitting the data into test and train
 
-##PROGRAM:
+### PROGRAM:
 Developed by: sneha S V
 Register No: 212219220049.
 
@@ -61,7 +67,7 @@ df1 = sc.fit_transform(df)
 print(df1)
 /Write your code here/
 
-##OUTPUT:
+### OUTPUT:
 ![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op1.PNG?raw=true)
 ![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op2.PNG?raw=true)
 ![output](https://github.com/snehavijay23/Ex.No.1---Data-Preprocessing/blob/main/op3.PNG?raw=true)
@@ -69,7 +75,7 @@ print(df1)
 
 
 
-##RESULT
+### RESULT
 Thus the above program for standardizing the given data was implemented successfully.
 
 
